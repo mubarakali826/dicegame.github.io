@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #393E46;
+  font-family: 'Arvo', cursive;
+
+}
+
+.upper{
+margin-top: 80px;
+text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 270px;
+    text-align: center;
+}
+.player{
+    margin: 0 40px 0 40px;
+}
+h1{
+    color: #4ECCA3;
+    font-size: 3rem;
+}
+.upper h1{
+    font-size: 5rem;
+
+}
+.player h1{
+    margin-bottom: 18px;
+
+}
